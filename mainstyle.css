@@ -1,0 +1,36 @@
+
+		body{
+			background:url('https://i.pinimg.com/564x/99/8f/67/998f67b477d38ffe11c95291a222be1c.jpg') scroll repeat-y right;
+			}
+			
+		h1{
+			font-family: arial;
+			font-weight: bold;
+			color: #59423B;
+			font-size: 50px;
+			
+		}
+		
+		h3{
+		
+			font-family: arial;
+			font-weight: bold;
+			color: #673D30;
+			font-size: 25px;
+		}
+		
+		div {
+			border: 20px solid #1D311D;
+			background-image: linear-gradient(to bottom right, #FFFFFF, rgb(75, 92, 55));
+			width: 900px ;
+			margin-right: 565px;
+			font-size: 20px;
+		}
+		
+		a{
+			background-color:#475635;
+			color:white;
+			padding:5px 75px;
+			font-family: arial;
+			font-size: 25px;
+	
